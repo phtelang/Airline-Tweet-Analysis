@@ -1,5 +1,5 @@
 ## Improving-Customer-Satisfaction-using-Tweets
-Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The data was provided by Kaggle in both CSV and SQLite database here. In this project, I used the SQLite database as the source and analyze the airline tweets to find trends and predict sentiments from reviews. This analysis will help airlines understand what makes their customers happy as well as bring their focus on the services which need improvements/changes. This will help them improve their service, increase customer satisfaction and in turn increase business.
+Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The data was provided by Kaggle in both CSV and SQLite database __[here](https://www.kaggle.com/crowdflower/twitter-airline-sentiment#database.sqlite)__. In this project, I used the SQLite database as the source and analyze the airline tweets to find trends and predict sentiments from reviews. This analysis will help airlines understand what makes their customers happy as well as bring their focus on the services which need improvements/changes. This will help them improve their service, increase customer satisfaction and in turn increase business.
 
 We will analyze the below points:
 1. Airline sentiment analysis
@@ -16,7 +16,7 @@ We will analyze the below points:
 5. Dataset has a higher number of negative tweets indicting that many customers have encountered some problems while traveling. This also indicates that airlines need to take immediate actions to improve customer experience and in turn grow their business.
 6. After balancing data with SMOTE, accuracy, precision, recall and f1 scores have improved.
 
-To view the code and graphs accurately, please click here as some of the Plotly graphs are not displayed directly on Github.
+To view the code and graphs accurately, please __[click here](https://github.com/phtelang/Improving-Customer-Satisfaction-using-Tweets/blob/master/Improving%20Customer%20Satisfaction%20using%20Tweets.ipynb)__ as some of the Plotly graphs are not displayed directly on Github.
 
 ## Installation
 - Download the .ipynb (Jupyter file).
